@@ -52,4 +52,11 @@ ssh-keygen / ssh 세팅 필수
  
     10. 브랜치 병합
     > merge : 브랜치에서 변화된 내용들 병합 (기록 유지)
+    > main 에서 merge 다른 브랜치
+
     > rebase : main 브랜치에 이어 붙음 (기록 삭제 _ 사용 비추)
+    > 다른 브랜치에서 rebase main
+
+    > merge 후 브랜치 삭제
+    > 충돌 관련 git merge --abort / --continue 처리 
+    
