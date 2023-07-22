@@ -50,3 +50,6 @@ ssh-keygen / ssh 세팅 필수
     > git branch -d 브랜치명 (삭제)
     > git branch -m 브랜치명 새 브랜치명 (변경)
  
+    10. 브랜치 병합
+    > merge : 브랜치에서 변화된 내용들 병합 (기록 유지)
+    > rebase : main 브랜치에 이어 붙음 (기록 삭제 _ 사용 비추)
