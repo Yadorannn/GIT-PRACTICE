@@ -1,0 +1,2 @@
+# GIT-PRACTICE
+깃 연습하기
