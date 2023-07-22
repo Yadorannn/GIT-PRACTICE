@@ -32,7 +32,7 @@ ssh-keygen / ssh 세팅 필수
     > 근데 쉘에서 ! 와 " 을 같이 쓰면 dquote 발생 . ! 는 ' 와 같이 쓰자
     
     6. 내용 변경 후 
-    > git stauts / git diff 를 통해 확인할 수 있다 
+    > git status / git diff 를 통해 확인할 수 있다 
 
     7. Reset 과 Revert
     > Reset : 히스토리에서 삭제 : 협업 시 잘 사용 안할거 같음 
